@@ -23,13 +23,14 @@ https://www.linkedin.com/mynetwork/grow/
 
 # INLINE CODE
 
-`
-this
+`this
 is
+NOT
 inline
-code
+code`
 
-`
+`this is inline code `
+
 # FENCED CODE BLOCK
 
 ```
