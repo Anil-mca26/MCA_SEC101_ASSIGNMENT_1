@@ -24,5 +24,20 @@ https://www.linkedin.com/mynetwork/grow/
 # INLINE CODE
 
 `
-this is inline code
+this
+is
+inline
+code
+
+`
+# FENCED CODE BLOCK
+
+```
+THIS 
+IS 
+FENCED 
+CODE 
+BLOCK
+
+```
 `
