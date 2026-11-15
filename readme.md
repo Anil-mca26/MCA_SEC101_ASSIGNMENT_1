@@ -3,7 +3,8 @@ this is paragraph
 
 ## Sub Heading with under line
 this is sub heading paragraph
-
+**Bold** 
+*Itelic*
 
 ### so on sub Heading without under line
 this is triple hash paragraph
@@ -19,3 +20,9 @@ this is triple hash paragraph
 
 # LINK demo
 https://www.linkedin.com/mynetwork/grow/
+
+# INLINE CODE
+
+`
+this is inline code
+`
